@@ -1,0 +1,77 @@
+canonical_identifier: bkk:krp/KR6o0079/v1
+canonical_location: https://kanripo.org/bkk/KR6o0079/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘起信論
+  identifiers:
+    alt_id:
+    - T32n1667
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1667.xml
+    old_id: T32n1667
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0079_000.yaml, hash: 'sha256:eecad5e64411f203c454d90cf7a7cd939985457b178775973452193d09773c12'}
+  - {seq: 1, filename: KR6o0079_001.yaml, hash: 'sha256:dcee5aa6dee6c2a164901188fe7a96a20fcb4c220020b818b9c9ca1d04479c6c'}
+  - {seq: 2, filename: KR6o0079_002.yaml, hash: 'sha256:8550ad9adf3226c027bfa1de681986ce8e590453f94e4a3f7444fdbc1d2b292a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0079_000.markers.yaml, hash: 'sha256:1a1ba61da6bf13049529c4969f2d593cee6e7527ce06fb78fe4005c5bffb9835'}
+  - {seq: 1, role: markers, filename: assets/KR6o0079_001.markers.yaml, hash: 'sha256:51a4ce88c2956d07391c5f1a9bbc4a63d7fba576bba43fb6843577bccf312e16'}
+  - {seq: 2, role: markers, filename: assets/KR6o0079_002.markers.yaml, hash: 'sha256:af54dc369f5a5a4bdae87bbfc9e0e829a91ae03f1deb4ef8ee166cc7732a6c10'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6o0079_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 新譯大乘起信論序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0079_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5861
+  label: 大乘起信論卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0079_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4938
+  label: 大乘起信論卷下
+  type: juan
+  level: 1
+hash: sha256:33e33aa79bee6e1edce753c23ffbef942eba6b5e04edf2068c81ecf4fbaca254
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
