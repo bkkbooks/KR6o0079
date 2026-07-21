@@ -33,11 +33,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6o0079_000.yaml, hash: 'sha256:76c380efc5d391c296d11273e1e420815dcf31d86ac51ecb0988890e431a0fad'}
+  - {seq: 0, filename: KR6o0079_000.yaml, hash: 'sha256:9d4eb4054f57a084582926f0ac42fd56cf49d149c48850e8d1401cd65cf9aa14'}
   - {seq: 1, filename: KR6o0079_001.yaml, hash: 'sha256:c44dbaf755f916def622607ad8a07ebb0b31356f554ede67bf2cdbf5a657ddaf'}
   - {seq: 2, filename: KR6o0079_002.yaml, hash: 'sha256:95f06a09c693c0ef7c76e925ec593548b1e1eb3a3c389a30fb7cf835914b07e3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0079_000.markers.yaml, hash: 'sha256:8a74f24ca57dc39e1cbbe20f9ca868607b08d9702774e509e838b7ef8277f99b'}
+  - {seq: 0, role: markers, filename: assets/KR6o0079_000.markers.yaml, hash: 'sha256:b3d1edc14ac300e85c9d632f4490bb10552e0c0c59c5ce9ccd5aa56a989da834'}
   - {seq: 1, role: markers, filename: assets/KR6o0079_001.markers.yaml, hash: 'sha256:25d9291f15f77c923078d376b35286c8f657a7694767c4b5606c2a4f3691546f'}
   - {seq: 2, role: markers, filename: assets/KR6o0079_002.markers.yaml, hash: 'sha256:99210e0941d0ba7ad984cbc91cad8e08d50c5d3a215e6dd7b36eb7f11cc62113'}
 table_of_contents:
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0079_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新譯大乘起信論序
@@ -71,7 +71,7 @@ table_of_contents:
   label: 大乘起信論卷下
   type: juan
   level: 1
-hash: sha256:9546cc097fa243d019b1dbc68472a1f32b30b5a5580548e7dc2c4c34a48fa1be
+hash: sha256:32c6625708945f6c046ebcd593175f4981d2fa90f53823456c6b3429f6b2e3ca
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

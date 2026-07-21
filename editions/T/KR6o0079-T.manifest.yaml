@@ -19,11 +19,11 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6o0079_000-T.yaml, hash: 'sha256:9eb57b32c84c80b043ebac1b48686dfd4e878d55e24f1a0ee93fc16b2bc4f515'}
+  - {seq: 0, filename: KR6o0079_000-T.yaml, hash: 'sha256:c49006407266c2906c807d343e6cbde4cf64d534f81cc97dd66d7ce0cf112c1e'}
   - {seq: 1, filename: KR6o0079_001-T.yaml, hash: 'sha256:2469abe05b7391e5d00ee140df75e3895c67ed6a8458f79c698cf04dba47a73d'}
   - {seq: 2, filename: KR6o0079_002-T.yaml, hash: 'sha256:ffbc7bb8810cb487cc7be289c3265f865327096e839b22d2341374cf1265aa06'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0079_000-T.markers.yaml, hash: 'sha256:96af9469b059ecc19701fdda8b44b5a5d6ddb03ef3229a7c5bde68ff9ea23fc5'}
+  - {seq: 0, role: markers, filename: assets/KR6o0079_000-T.markers.yaml, hash: 'sha256:a60fc4418bfbb2fa36ac071bcdf069439a266bb7c080822c4b33f63db5ed387d'}
   - {seq: 1, role: markers, filename: assets/KR6o0079_001-T.markers.yaml, hash: 'sha256:751ed936a222ea10fdf3edc90f9bdf21432be2655473cb74e53762108c8055a6'}
   - {seq: 2, role: markers, filename: assets/KR6o0079_002-T.markers.yaml, hash: 'sha256:64c60789c62284c0e0b166f8faac1fb2f27464b9e2892491401f799c67137e8b'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0079_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新譯大乘起信論序
@@ -57,4 +57,4 @@ table_of_contents:
   label: 大乘起信論卷下
   type: juan
   level: 1
-hash: sha256:adc69dd649fd49866c7882137abd0a8f16c3d0d35fe39823f055903b9f6dad61
+hash: sha256:043d179084482b166847312cdae5dc9128b3eb895cc19e92d5436c771bdec6a4
